@@ -1,4 +1,4 @@
-# D596-AllTasks-Data-Analytics-Life-Cycle-and-Career-Goals
+# Data-Analytics-Life-Cycle-and-Career-Goals
 
 1. README.md - A file describing other files in this repository.
 
